@@ -1,3 +1,4 @@
+.env
 /node_modules
 /docker/node/node_modules
 /public/hot
